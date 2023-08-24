@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brainz.API.Institucional", "Brainz.API.Institucional\Brainz.API.Institucional.csproj", "{FD2FB5E3-1F6C-49E7-80E5-23C558D9FF6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{8371400A-BF9A-4228-932E-7C82B27986B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{855F3D6C-B493-487A-A57C-C476644610CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Service", "3 - Service", "{1E1EE4DF-0479-4AF0-85E4-7DD96327CE0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{C8907B53-E787-46F2-BABA-E7050D05F89D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brainz.Data", "Brainz.Data\Brainz.Data.csproj", "{B018AE7E-1667-4D69-B012-817B53577E59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brainz.CrossCutting", "Brainz.CrossCutting\Brainz.CrossCutting.csproj", "{46C878F5-2648-4B16-B6ED-A4C0B4953768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brainz.Domain", "Brainz.Domain\Brainz.Domain.csproj", "{1BEAC439-607A-428A-8468-8324B562F02D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brainz.Service", "Brainz.Service\Brainz.Service.csproj", "{F3427B00-B285-482B-A3F3-E2F01299188F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2FB5E3-1F6C-49E7-80E5-23C558D9FF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2FB5E3-1F6C-49E7-80E5-23C558D9FF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2FB5E3-1F6C-49E7-80E5-23C558D9FF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2FB5E3-1F6C-49E7-80E5-23C558D9FF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B018AE7E-1667-4D69-B012-817B53577E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B018AE7E-1667-4D69-B012-817B53577E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B018AE7E-1667-4D69-B012-817B53577E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B018AE7E-1667-4D69-B012-817B53577E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C878F5-2648-4B16-B6ED-A4C0B4953768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C878F5-2648-4B16-B6ED-A4C0B4953768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C878F5-2648-4B16-B6ED-A4C0B4953768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C878F5-2648-4B16-B6ED-A4C0B4953768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BEAC439-607A-428A-8468-8324B562F02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEAC439-607A-428A-8468-8324B562F02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEAC439-607A-428A-8468-8324B562F02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEAC439-607A-428A-8468-8324B562F02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3427B00-B285-482B-A3F3-E2F01299188F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3427B00-B285-482B-A3F3-E2F01299188F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3427B00-B285-482B-A3F3-E2F01299188F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3427B00-B285-482B-A3F3-E2F01299188F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD2FB5E3-1F6C-49E7-80E5-23C558D9FF6B} = {8371400A-BF9A-4228-932E-7C82B27986B9}
+		{B018AE7E-1667-4D69-B012-817B53577E59} = {C8907B53-E787-46F2-BABA-E7050D05F89D}
+		{46C878F5-2648-4B16-B6ED-A4C0B4953768} = {C8907B53-E787-46F2-BABA-E7050D05F89D}
+		{1BEAC439-607A-428A-8468-8324B562F02D} = {855F3D6C-B493-487A-A57C-C476644610CA}
+		{F3427B00-B285-482B-A3F3-E2F01299188F} = {1E1EE4DF-0479-4AF0-85E4-7DD96327CE0F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941C11ED-8FF1-436D-95AD-6066567F2A01}
+	EndGlobalSection
+EndGlobal

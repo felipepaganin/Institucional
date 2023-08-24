@@ -1,0 +1,12 @@
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\bin\Debug\net6.0\Brainz.Domain.deps.json
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\bin\Debug\net6.0\Brainz.Domain.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\bin\Debug\net6.0\Brainz.Domain.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\refint\Brainz.Domain.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\Brainz.Domain.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Domain\obj\Debug\net6.0\ref\Brainz.Domain.dll

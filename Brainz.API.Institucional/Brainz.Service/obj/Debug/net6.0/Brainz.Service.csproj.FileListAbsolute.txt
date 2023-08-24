@@ -1,0 +1,17 @@
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Service.deps.json
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Service.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Service.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Data.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Domain.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Data.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\bin\Debug\net6.0\Brainz.Domain.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.csproj.CopyComplete
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\refint\Brainz.Service.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\Brainz.Service.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Service\obj\Debug\net6.0\ref\Brainz.Service.dll

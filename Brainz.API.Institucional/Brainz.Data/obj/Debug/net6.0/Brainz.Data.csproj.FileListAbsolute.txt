@@ -1,0 +1,17 @@
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\bin\Debug\net6.0\Brainz.Data.deps.json
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\bin\Debug\net6.0\Brainz.Data.runtimeconfig.json
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\bin\Debug\net6.0\Brainz.Data.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\bin\Debug\net6.0\Brainz.Data.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\bin\Debug\net6.0\Brainz.Domain.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\bin\Debug\net6.0\Brainz.Domain.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.csproj.CopyComplete
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\refint\Brainz.Data.dll
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.pdb
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\Brainz.Data.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Brainz\InstitucionalAPI\Brainz.API.Institucional\Brainz.Data\obj\Debug\net6.0\ref\Brainz.Data.dll

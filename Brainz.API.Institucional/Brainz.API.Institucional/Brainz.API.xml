@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Brainz.API.Institucional</name>
+    </assembly>
+    <members>
+        <member name="T:Brainz.API.Institucional.Controllers.ExampleController">
+            <summary>
+            Example Controller
+            </summary>
+        </member>
+        <member name="F:Brainz.API.Institucional.Controllers.ExampleController._exampleService">
+            <summary>
+            Referencia interna ao serviço 
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.ExampleController.#ctor(API.Framework.Interfaces.IApiContext,Brainz.Service.Interfaces.IExampleService)">
+            <summary>
+            Construtor
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.ExampleController.List">
+            <summary>
+            Busca todos "exemplos"
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.ExampleController.GetById(System.Guid)">
+            <summary>
+            Busca "exemplos" pelo Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.ExampleController.Insert(Brainz.Domain.Payloads.ExamplePayload)">
+            <summary>
+            Insere um "exemplo"
+            </summary>
+            <param name="payload"></param>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.ExampleController.Update(Brainz.Domain.Payloads.ExamplePayload,System.Guid)">
+            <summary>
+            Atualiza um "exemplo"
+            </summary>
+            <param name="payload"></param>
+            <param name="exampleId"></param>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.ExampleController.Delete(System.Guid)">
+            <summary>
+            Remove um "exemplo"
+            </summary>
+            <param name="exampleId"></param>
+        </member>
+        <member name="T:Brainz.API.Institucional.Controllers.InstitutionalController">
+            <summary>
+            Example Controller
+            </summary>
+        </member>
+        <member name="F:Brainz.API.Institucional.Controllers.InstitutionalController._institutionalService">
+            <summary>
+            Referencia interna ao serviço 
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.InstitutionalController.#ctor(API.Framework.Interfaces.IApiContext,Brainz.Service.Interfaces.IInstitutionalService)">
+            <summary>
+            Construtor
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.InstitutionalController.List(System.Guid)">
+            <summary>
+            Retorna as paginas "Site institucional"
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Brainz.API.Institucional.Controllers.TrilhasIntegrationController._trilhasIntegrationService">
+            <summary>
+            Referencia interna ao serviço 
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.TrilhasIntegrationController.#ctor(API.Framework.Interfaces.IApiContext,Brainz.Service.Interfaces.ITrilhasIntegrationService)">
+            <summary>
+            Construtor
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Controllers.TrilhasIntegrationController.ListInstitutionalCoursesPaginated(System.Int32,System.Int32)">
+            <summary>
+            Retorna as paginas "Site institucional"
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Brainz.API.Institucional.Program">
+            <summary>
+            Program class
+            </summary>
+        </member>
+        <member name="M:Brainz.API.Institucional.Program.Main(System.String[])">
+            <summary>
+            Application Main()
+            </summary>
+            <param name="args">The arguments</param>
+        </member>
+        <member name="M:Brainz.API.Institucional.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            CreateWebHostBuilder
+            </summary>
+            <param name="args">The arguments</param>
+            <returns>The WebHostBuilder</returns>
+        </member>
+    </members>
+</doc>
